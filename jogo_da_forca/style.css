@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#palavrasecreta button{
+  width: 50px;
+  height: 50px
+}
+
+#escolhidas {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
